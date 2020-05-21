@@ -1,1 +1,2 @@
 Random line 1
+Random line 2
