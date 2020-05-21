@@ -1,2 +1,3 @@
-Hello! FIrst line to be added
+First line replaced
 Second Line
+Third Line
